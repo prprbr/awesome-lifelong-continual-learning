@@ -4,14 +4,13 @@ A list of papers, blogs, datasets and software in the field of lifelong/continua
 A powerful concept and a stepping stone towards Artificial General Intelligence.
 
 ## Contents
-- [Blogs](#recommendations)
-- [Workshops](#workshops)
-- [Tutorials & Workshops & Blogs](#tutorials--workshops--blogs)
-- [Videos](#videos)
-- [Code](#code)
 - [Papers](#papers)
+- [Blogs](#blogs)
+- [Datasets](#dataset)
+- [Workshops](#workshops)
+- [Startups](#startups)
  
   
-## Blogs
+## Papers
 - 1
 - 2
