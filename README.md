@@ -12,5 +12,5 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
  
   
 ## Papers
-- 1
-- 2
+- An empirical investigation of catastrophic forgetting in gradient-based neural networks. [[paper]](https://arxiv.org/abs/1312.6211)
+- 
