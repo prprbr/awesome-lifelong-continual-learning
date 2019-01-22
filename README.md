@@ -40,4 +40,9 @@ trying subtext
 - Why Continual Learning is the key towards Machine Intelligence [[Medium]](https://medium.com/continual-ai/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
 - Enabling Continual Learning in Neural Networks, [[Deepmind blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
 
-- 
+# Workshops
+- [[NIPS 2016 Workshop]](https://sites.google.com/site/cldlnips2016/)
+- [[NIPS 2018 Workshop]](https://sites.google.com/view/continual2018)
+- [[CVPR 2017 Workshop]](https://erodner.github.io/continuouslearningcvpr2017/)
+- [[ICML 2017 Workshop]](http://rlabstraction2016.wixsite.com/icml-2017)
+
