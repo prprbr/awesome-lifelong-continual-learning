@@ -25,8 +25,11 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 
 ## Approaches
 -  Overcoming catastrophic forgetting in neural networks. [[paper]](https://arxiv.org/abs/1612.00796) [[Blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) [[Unofficial Implementation]](https://github.com/ariseff/overcoming-catastrophic)
+> Penalty applied in the learning process to restrict those weights that were important (by Fisher information matrix) for the older tasks to change much  
 - Less-forgetting learning in deep neural networks [[paper]](https://arxiv.org/abs/1607.00122)
+> Regularization based technique by discouraging the final hidden layer's neural representation to change much 
 - Learning without forgetting [[paper]](https://arxiv.org/pdf/1606.09282) [[Code]](https://github.com/lizhitwo/LearningWithoutForgetting)
+> Uses knowledge distillation based regularization by trying to enforce that the predictions of the new data using the old task's neural parameters do not change much while sequentially learning from the new data only 
 - Gradient Episodic Memory for continual learning [[paper]](https://arxiv.org/abs/1706.08840) [[Code]](https://github.com/facebookresearch/GradientEpisodicMemory)
 - iCaRL: Incremental Classifier and Representation Learning [[paper]](https://arxiv.org/abs/1611.07725) [[Code]](https://github.com/srebuffi/iCaRL)
 - Continual learning with deep generative replay [[paper]](https://arxiv.org/abs/1705.08690)
