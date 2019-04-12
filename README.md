@@ -25,7 +25,7 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 
 ## Approaches
 -  Overcoming catastrophic forgetting in neural networks. [[paper]](https://arxiv.org/abs/1612.00796) [[Blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) [[Unofficial Implementation]](https://github.com/ariseff/overcoming-catastrophic)
-> Penalty applied in the learning process to restrict those weights that were important (by Fisher information matrix) for the older tasks to change much  
+> Penalty applied in the learning process to restrict or consolidate those weights (EWC) that were important (by Fisher information matrix) for the older tasks to change much  
 - Less-forgetting learning in deep neural networks [[paper]](https://arxiv.org/abs/1607.00122)
 > Regularization based technique by discouraging the final hidden layer's neural representation to change much 
 - Learning without forgetting [[paper]](https://arxiv.org/pdf/1606.09282) [[Code]](https://github.com/lizhitwo/LearningWithoutForgetting)
@@ -35,6 +35,17 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - Continual learning with deep generative replay [[paper]](https://arxiv.org/abs/1705.08690)
 - Encoder based lifelong learning [[paper]](https://arxiv.org/abs/1704.01920)  [[Code]](https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning)
 - Continual Learning Through Synaptic Intelligence [[paper]](https://arxiv.org/abs/1703.04200) [[Code]](https://github.com/ganguli-lab/pathint)
+> Similar to EWC but instead of Fisher information, the importance scores of each weight is computer online along the learning trajectory
+- Memory Efficient Experience Replay for Streaming Learning [[paper]](https://arxiv.org/pdf/1809.05922.pdf)
+> Explores stream clustering approaches to store subsets to be rehearsed later while learning new data or tasks
+- Measuring Catastrophic Forgetting in Neural Networks [[paper]](https://arxiv.org/pdf/1708.02072.pdf)
+> New metrics proposed to measure a model's ability to retain past knowledge and acquiring new knowledge
+
+
+# Datasets
+- Core50
+- Incremental CIFAR
+- Permutated MNIST
 
 
 # Startups
