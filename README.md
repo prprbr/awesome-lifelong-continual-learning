@@ -14,7 +14,7 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 # Papers
 ## Theory & Survey papers
 
-- **An empirical investigation of catastrophic forgetting in gradient-based neural networks.** [[paper]](https://arxiv.org/abs/1312.6211)
+- An empirical investigation of catastrophic forgetting in gradient-based neural networks. [[paper]](https://arxiv.org/abs/1312.6211)
 > Talks about the problem of forgetting in neural nets and advantage of using dropout
 - Catastrophic interference in connectionist networks: The sequential learning problem. [[paper]](https://www.sciencedirect.com/science/article/pii/S0079742108605368)
 > One of the earliest papers introducing the concept of forgetting in learning modules
@@ -44,10 +44,10 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 > New metrics proposed to measure a model's ability to retain past knowledge and acquiring new knowledge
 - Memory Replay GANs: learning to generate images from new categories without forgetting [[paper]](https://arxiv.org/pdf/1809.02058.pdf) [[code]](https://github.com/WuChenshen/MeRGAN)
 > Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions
-- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
+- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. **(2019)** [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
 > Tries to combine reservoir sampling based experience replay with optimization based metalearning
-- Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
-> 
+- Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation **(2019)** [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
+> In addition to a previous data generator, this paper also has a dynamic weights or parameter generator 
 
 
 
@@ -71,4 +71,5 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - [[NIPS 2018 Workshop]](https://sites.google.com/view/continual2018)
 - [[CVPR 2017 Workshop]](https://erodner.github.io/continuouslearningcvpr2017/)
 - [[ICML 2017 Workshop]](http://rlabstraction2016.wixsite.com/icml-2017)
+- [[IJCAI 2018 workshop]](https://sites.google.com/view/llarla2018/home)
 - [[COSYNE 2019]](http://www.cosyne.org/c/index.php?title=Workshops2019_learning)
