@@ -33,6 +33,7 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - Learning without forgetting [[paper]](https://arxiv.org/pdf/1606.09282) [[Code]](https://github.com/lizhitwo/LearningWithoutForgetting)
 > Uses knowledge distillation based regularization by trying to enforce that the predictions of the new data using the old task's neural parameters do not change much while sequentially learning from the new data only 
 - Gradient Episodic Memory for continual learning [[paper]](https://arxiv.org/abs/1706.08840) [[Code]](https://github.com/facebookresearch/GradientEpisodicMemory)
+> explain.  An efficient version has been recently proposed in this 2019 [[paper]](https://openreview.net/forum?id=Hkf2_sC5FX)
 - iCaRL: Incremental Classifier and Representation Learning [[paper]](https://arxiv.org/abs/1611.07725) [[Code]](https://github.com/srebuffi/iCaRL)
 - Continual learning with deep generative replay [[paper]](https://arxiv.org/abs/1705.08690)
 - Encoder based lifelong learning [[paper]](https://arxiv.org/abs/1704.01920)  [[Code]](https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning)
