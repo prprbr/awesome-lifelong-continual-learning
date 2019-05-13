@@ -15,9 +15,9 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 ## Theory & Survey papers
 
 - An empirical investigation of catastrophic forgetting in gradient-based neural networks. (2013) [[paper]](https://arxiv.org/abs/1312.6211)
-> Talks about the problem of forgetting in neural nets and advantage of using dropout
+> *Talks about the problem of forgetting in neural nets and advantage of using dropout*
 - Catastrophic interference in connectionist networks: The sequential learning problem. (1989) [[paper]](https://www.sciencedirect.com/science/article/pii/S0079742108605368)
-> One of the earliest papers introducing the concept of forgetting in learning modules
+> *One of the earliest papers introducing the concept of forgetting in learning modules*
 - Continual Lifelong Learning with Neural Networks: A Review (2018) [[paper]](https://arxiv.org/abs/1802.07569)
 - Making memories last: the synaptic tagging and capture hypothesis. (2011) [[paper]](https://www.ncbi.nlm.nih.gov/pubmed/21170072)
 - A massively parallel architecture for a self-organizing neural pattern recognition machine (1989) [[paper]](http://sites.bu.edu/steveg/files/2016/06/CarGro1987CVGIP.pdf)
