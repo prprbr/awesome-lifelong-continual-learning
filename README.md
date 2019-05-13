@@ -21,7 +21,8 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 > One of the earliest papers introducing the concept of forgetting in learning modules
 - Continual Lifelong Learning with Neural Networks: A Review [[paper]](https://arxiv.org/abs/1802.07569)
 - Making memories last: the synaptic tagging and capture hypothesis. [[paper]](https://www.ncbi.nlm.nih.gov/pubmed/21170072)
-
+- A massively parallel architecture for a self-organizing neural pattern recognition machine [[paper]](http://sites.bu.edu/steveg/files/2016/06/CarGro1987CVGIP.pdf)
+> Talks about the tradeoff between stability (ability to preserve past knowledge) and plasticity (able to rapidly learn new stuffs) 
 
 ## Approaches
 -  Overcoming catastrophic forgetting in neural networks. [[paper]](https://arxiv.org/abs/1612.00796) [[Blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) [[Unofficial Implementation]](https://github.com/ariseff/overcoming-catastrophic)
@@ -43,6 +44,8 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - Memory Replay GANs: learning to generate images from new categories without forgetting [[paper]](https://arxiv.org/pdf/1809.02058.pdf) [[code]](https://github.com/WuChenshen/MeRGAN)
 > Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions
 - Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
+> Tries to combine reservoir sampling based experience replay with optimization based metalearning
+
 
 
 # Datasets
