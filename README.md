@@ -1,4 +1,4 @@
-# awesome-lifelong-continual-learning
+# awesome-continual-learning / awesome-lifelong-learning
 A list of papers, blogs, datasets and software in the field of lifelong/continual machine learning
 
 A powerful concept and a stepping stone towards Artificial General Intelligence.
@@ -40,6 +40,9 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 > Explores stream clustering approaches to store subsets to be rehearsed later while learning new data or tasks
 - Measuring Catastrophic Forgetting in Neural Networks [[paper]](https://arxiv.org/pdf/1708.02072.pdf)
 > New metrics proposed to measure a model's ability to retain past knowledge and acquiring new knowledge
+- Memory Replay GANs: learning to generate images from new categories without forgetting [[paper]](https://arxiv.org/pdf/1809.02058.pdf) [[code]](https://github.com/WuChenshen/MeRGAN)
+> Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions
+- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
 
 
 # Datasets
@@ -48,9 +51,10 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - Permutated MNIST
 
 
-# Startups
+# Industry/Startups
 - Neurala [[Link]](https://www.neurala.com/tech)
 - Cogitai [[Link]](https://www.cogitai.com/)
+- Deepmind [[Link]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
 
 # Blogs
 - Why Continual Learning is the key towards Machine Intelligence [[Medium]](https://medium.com/continual-ai/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
