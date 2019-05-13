@@ -1,7 +1,5 @@
 # awesome-continual-learning / awesome-lifelong-learning
-A list of papers, blogs, datasets and software in the field of lifelong/continual machine learning
-
-A powerful concept and a stepping stone towards Artificial General Intelligence.
+A list of papers, blogs, datasets and software in the field of lifelong / continual / sequential / incremental machine learning. This is a powerful concept and a stepping stone towards Artificial General Intelligence (AGI).
 
 ## Contents
 - [Papers](#papers)
