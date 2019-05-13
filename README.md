@@ -14,7 +14,7 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 # Papers
 ## Theory & Survey papers
 
-- **An empirical investigation of catastrophic forgetting in gradient-based neural networks. [[paper]](https://arxiv.org/abs/1312.6211)
+- **An empirical investigation of catastrophic forgetting in gradient-based neural networks.** [[paper]](https://arxiv.org/abs/1312.6211)
 > Talks about the problem of forgetting in neural nets and advantage of using dropout
 - Catastrophic interference in connectionist networks: The sequential learning problem. [[paper]]
 (https://www.sciencedirect.com/science/article/pii/S0079742108605368)
