@@ -14,15 +14,15 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 # Papers
 ## Theory & Survey papers
 
-- An empirical investigation of catastrophic forgetting in gradient-based neural networks. [[paper]](https://arxiv.org/abs/1312.6211)
+- An empirical investigation of catastrophic forgetting in gradient-based neural networks. (2013) [[paper]](https://arxiv.org/abs/1312.6211)
 > Talks about the problem of forgetting in neural nets and advantage of using dropout
-- Catastrophic interference in connectionist networks: The sequential learning problem. [[paper]](https://www.sciencedirect.com/science/article/pii/S0079742108605368)
+- Catastrophic interference in connectionist networks: The sequential learning problem. (1989) [[paper]](https://www.sciencedirect.com/science/article/pii/S0079742108605368)
 > One of the earliest papers introducing the concept of forgetting in learning modules
-- Continual Lifelong Learning with Neural Networks: A Review [[paper]](https://arxiv.org/abs/1802.07569)
-- Making memories last: the synaptic tagging and capture hypothesis. [[paper]](https://www.ncbi.nlm.nih.gov/pubmed/21170072)
-- A massively parallel architecture for a self-organizing neural pattern recognition machine [[paper]](http://sites.bu.edu/steveg/files/2016/06/CarGro1987CVGIP.pdf)
+- Continual Lifelong Learning with Neural Networks: A Review (2018) [[paper]](https://arxiv.org/abs/1802.07569)
+- Making memories last: the synaptic tagging and capture hypothesis. (2011) [[paper]](https://www.ncbi.nlm.nih.gov/pubmed/21170072)
+- A massively parallel architecture for a self-organizing neural pattern recognition machine (1989) [[paper]](http://sites.bu.edu/steveg/files/2016/06/CarGro1987CVGIP.pdf)
 > Talks about the tradeoff between stability (ability to preserve past knowledge) and plasticity (able to rapidly learn new stuffs) 
-- Lifelong Machine Learning
+- Lifelong Machine Learning (2016)
 > A book on this topic [[draft]](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
 
 ## Approaches
