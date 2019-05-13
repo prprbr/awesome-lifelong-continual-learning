@@ -5,14 +5,15 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 
 ## Contents
 - [Papers](#papers)
-- [Blogs](#blogs)
 - [Datasets](#dataset)
-- [Workshops](#workshops)
 - [Startups](#startups)
+- [Blogs](#blogs)
+- [Workshops](#workshops)
+
  
   
 # Papers
-## Theory & Survey papers
+## Theory & Surveys
 
 - An empirical investigation of catastrophic forgetting in gradient-based neural networks. (2013) [[paper]](https://arxiv.org/abs/1312.6211)
 > *Talks about the problem of forgetting in neural nets and advantage of using dropout*
