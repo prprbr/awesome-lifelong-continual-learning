@@ -71,4 +71,4 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - [[NIPS 2018 Workshop]](https://sites.google.com/view/continual2018)
 - [[CVPR 2017 Workshop]](https://erodner.github.io/continuouslearningcvpr2017/)
 - [[ICML 2017 Workshop]](http://rlabstraction2016.wixsite.com/icml-2017)
-
+- [[COSYNE 2019]](http://www.cosyne.org/c/index.php?title=Workshops2019_learning)
