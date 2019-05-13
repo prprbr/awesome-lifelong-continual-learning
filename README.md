@@ -38,22 +38,24 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 > *explain.  An efficient version has been recently proposed in this 2019 [[paper]](https://openreview.net/forum?id=Hkf2_sC5FX)*
 - iCaRL: Incremental Classifier and Representation Learning (2017) [[paper]](https://arxiv.org/abs/1611.07725) [[Code]](https://github.com/srebuffi/iCaRL)
 > *Uses herding to select a representative exemplar subset in the process of sequentially learning new classes of data*
+- Subset Replay based Continual Learning for Scalable Improvement of Autonomous Systems (2018) [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Brahma_Subset_Replay_Based_CVPR_2018_paper.pdf)
+> *Uses neural net's features to do a near online submodular subset selection of the previous examples and replays it during the newer learning sessions*
 - Continual learning with deep generative replay (2017) [[paper]](https://arxiv.org/abs/1705.08690)
 > *Without storing the whole or any of the previous training examples, it trains task specific GANs to generate and replay these older examples during the process of learning new tasks*
 - Encoder based lifelong learning  (2017) [[paper]](https://arxiv.org/abs/1704.01920)  [[Code]](https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning)
-> Similar to generative replay but it uses an autoencoder instead of a GAN to replay the previously learned data
-- Continual Learning Through Synaptic Intelligence [[paper]](https://arxiv.org/abs/1703.04200) [[Code]](https://github.com/ganguli-lab/pathint)
-> Similar to EWC but instead of Fisher information, the importance scores of each weight is computer online along the learning trajectory
-- Memory Efficient Experience Replay for Streaming Learning [[paper]](https://arxiv.org/pdf/1809.05922.pdf)
-> Explores stream clustering approaches to store subsets to be rehearsed later while learning new data or tasks
-- Measuring Catastrophic Forgetting in Neural Networks [[paper]](https://arxiv.org/pdf/1708.02072.pdf)
-> New metrics proposed to measure a model's ability to retain past knowledge and acquiring new knowledge
-- Memory Replay GANs: learning to generate images from new categories without forgetting [[paper]](https://arxiv.org/pdf/1809.02058.pdf) [[code]](https://github.com/WuChenshen/MeRGAN)
-> Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions
-- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. **(2019)** [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
-> Tries to combine reservoir sampling based experience replay with optimization based metalearning
-- Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation **(2019)** [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
-> In addition to a previous data generator, this paper also has a dynamic weights or parameter generator 
+> *Similar to generative replay but it uses an autoencoder instead of a GAN to replay the previously learned data*
+- Continual Learning Through Synaptic Intelligence [[paper]](https://arxiv.org/abs/1703.04200) (2017) [[Code]](https://github.com/ganguli-lab/pathint)
+> *Similar to EWC but instead of Fisher information, the importance scores of each weight is computer online along the learning trajectory*
+- Memory Efficient Experience Replay for Streaming Learning (2018) [[paper]](https://arxiv.org/pdf/1809.05922.pdf)
+> *Explores stream clustering approaches to store subsets to be rehearsed later while learning new data or tasks*
+- Measuring Catastrophic Forgetting in Neural Networks (2017) [[paper]](https://arxiv.org/pdf/1708.02072.pdf)
+> *New metrics proposed to measure a model's ability to retain past knowledge and acquiring new knowledge*
+- Memory Replay GANs: learning to generate images from new categories without forgetting (2018) [[paper]](https://arxiv.org/pdf/1809.02058.pdf) [[code]](https://github.com/WuChenshen/MeRGAN)
+> *Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions*
+- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. (2019) [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
+> *Tries to combine reservoir sampling based experience replay with optimization based metalearning*
+- Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation (2019) [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
+> *In addition to a previous data generator, this paper also has a dynamic weights or parameter generator.*
 
 
 
