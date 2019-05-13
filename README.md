@@ -23,6 +23,8 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 - Making memories last: the synaptic tagging and capture hypothesis. [[paper]](https://www.ncbi.nlm.nih.gov/pubmed/21170072)
 - A massively parallel architecture for a self-organizing neural pattern recognition machine [[paper]](http://sites.bu.edu/steveg/files/2016/06/CarGro1987CVGIP.pdf)
 > Talks about the tradeoff between stability (ability to preserve past knowledge) and plasticity (able to rapidly learn new stuffs) 
+- Lifelong Machine Learning
+> A book on this topic [[draft]](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
 
 ## Approaches
 -  Overcoming catastrophic forgetting in neural networks. [[paper]](https://arxiv.org/abs/1612.00796) [[Blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/) [[Unofficial Implementation]](https://github.com/ariseff/overcoming-catastrophic)
@@ -45,6 +47,8 @@ A powerful concept and a stepping stone towards Artificial General Intelligence.
 > Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions
 - Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
 > Tries to combine reservoir sampling based experience replay with optimization based metalearning
+- Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
+> 
 
 
 
