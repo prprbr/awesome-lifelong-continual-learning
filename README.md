@@ -55,6 +55,9 @@ A list of papers, blogs, datasets and software in the field of lifelong / contin
 > *Tries to combine reservoir sampling based experience replay with optimization based metalearning*
 - Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation (2019) [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
 > *In addition to a previous data generator, this paper also has a dynamic weights or parameter generator.*
+- Progressive Neural Networks (2016) [[paper]](https://arxiv.org/pdf/1606.04671.pdf)
+- Progress & Compress A scalable continual learning approach (2018) [[paper]](https://arxiv.org/pdf/1606.04671.pdf)
+- Reinforced Continual learning [[paper]](https://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)
 
 
 
