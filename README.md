@@ -1,5 +1,7 @@
 # awesome-continual-learning / awesome-lifelong-learning
-A list of papers, blogs, datasets and software in the field of lifelong / continual / sequential / incremental machine learning. 
+The objective of continual learning is to have machines replicate human-like learning of being able to sequentially learn new tasks and observations while still being able to retain the knowledge obtained from past experiences.
+
+The following is a list of papers, blogs, datasets and software in the field of lifelong / continual / sequential / incremental machine learning. 
 
 ## Contents
 - [Papers](#papers)
