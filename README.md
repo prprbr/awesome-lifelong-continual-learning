@@ -45,7 +45,7 @@ The following is a list of papers, blogs, datasets and software in the field of 
 > *Without storing the whole or any of the previous training examples, it trains task specific GANs to generate and replay these older examples during the process of learning new tasks*
 - Encoder based lifelong learning  (2017) [[paper]](https://arxiv.org/abs/1704.01920)  [[Code]](https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning)
 > *Similar to generative replay but it uses an autoencoder instead of a GAN to replay the previously learned data*
-- Continual Learning Through Synaptic Intelligence [[paper]](https://arxiv.org/abs/1703.04200) (2017) [[Code]](https://github.com/ganguli-lab/pathint)
+- Continual Learning Through Synaptic Intelligence (2017) [[paper]](https://arxiv.org/abs/1703.04200)  [[Code]](https://github.com/ganguli-lab/pathint)
 > *Similar to EWC but instead of Fisher information, the importance scores of each weight is computer online along the learning trajectory*
 - Memory Efficient Experience Replay for Streaming Learning (2018) [[paper]](https://arxiv.org/pdf/1809.05922.pdf)
 > *Explores stream clustering approaches to store subsets to be rehearsed later while learning new data or tasks*
@@ -81,6 +81,7 @@ The following is a list of papers, blogs, datasets and software in the field of 
 - Why Continual Learning is the key towards Machine Intelligence [[Medium]](https://medium.com/continual-ai/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
 - Enabling Continual Learning in Neural Networks, [[Deepmind blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
 - IBM’s Quest to Solve the Continual Learning Problem and Build Neural Networks Without Amnesia [[link]](https://towardsdatascience.com/ibms-quest-to-solve-the-continual-learning-problem-and-build-neural-networks-without-amnesia-7ca70a41d07f)
+- Continual AI website[[link]](https://www.continualai.org/home/)
 
 # Workshops
 - [[NIPS 2016 Workshop]](https://sites.google.com/site/cldlnips2016/)
