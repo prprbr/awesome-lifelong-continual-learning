@@ -51,13 +51,16 @@ A list of papers, blogs, datasets and software in the field of lifelong / contin
 > *New metrics proposed to measure a model's ability to retain past knowledge and acquiring new knowledge*
 - Memory Replay GANs: learning to generate images from new categories without forgetting (2018) [[paper]](https://arxiv.org/pdf/1809.02058.pdf) [[code]](https://github.com/WuChenshen/MeRGAN)
 > *Another GAN based method to conditionally generate and replay previously learnt data in future learning sessions*
-- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. (2019) [[paper]](https://openreview.net/pdf?id=B1gTShAct7) 
+- Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference. (2019) [[paper]](https://openreview.net/pdf?id=B1gTShAct7)  [[code]](https://github.com/mattriemer/MER) 
 > *Tries to combine reservoir sampling based experience replay with optimization based metalearning*
 - Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation (2019) [[paper]](https://openreview.net/pdf?id=ryGvcoA5YX)
 > *In addition to a previous data generator, this paper also has a dynamic weights or parameter generator.*
 - Progressive Neural Networks (2016) [[paper]](https://arxiv.org/pdf/1606.04671.pdf)
+> *multi-column approach where a new column is added with the advent of a new task and each layer takes input from the previous layer of itself as well as previous column*
 - Progress & Compress A scalable continual learning approach (2018) [[paper]](https://arxiv.org/pdf/1606.04671.pdf)
+> *Two phases work in alternation. Progress phase is similar as above but Compress phase distills the knowledge into a knowledge base using EWC *
 - Reinforced Continual learning [[paper]](https://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)
+> *uses RL to adptively expands the neural network when a new task arrives *
 
 
 
@@ -75,6 +78,7 @@ A list of papers, blogs, datasets and software in the field of lifelong / contin
 # Blogs
 - Why Continual Learning is the key towards Machine Intelligence [[Medium]](https://medium.com/continual-ai/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
 - Enabling Continual Learning in Neural Networks, [[Deepmind blog]](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
+- IBM’s Quest to Solve the Continual Learning Problem and Build Neural Networks Without Amnesia [[link]](https://towardsdatascience.com/ibms-quest-to-solve-the-continual-learning-problem-and-build-neural-networks-without-amnesia-7ca70a41d07f)
 
 # Workshops
 - [[NIPS 2016 Workshop]](https://sites.google.com/site/cldlnips2016/)
