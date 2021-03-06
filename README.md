@@ -63,7 +63,7 @@ The following is a list of papers, blogs, datasets and software in the field of 
 > *Two phases work in alternation. Progress phase is similar as above but Compress phase distills the knowledge into a knowledge base using EWC*
 - Reinforced Continual learning [[paper]](https://papers.nips.cc/paper/7369-reinforced-continual-learning.pdf)
 > *uses RL to adptively expands the neural network when a new task arrives*
-- Do not Forget to Attend to Uncertainty while Mitigating Catastrophic Forgetting [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Do_Not_Forget_to_Attend_to_Uncertainty_While_Mitigating_Catastrophic_WACV_2021_paper.pdf)
+- Do not Forget to Attend to Uncertainty while Mitigating Catastrophic Forgetting [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Do_Not_Forget_to_Attend_to_Uncertainty_While_Mitigating_Catastrophic_WACV_2021_paper.pdf) [[code]](https://github.com/DelTA-Lab-IITK/Incremental-learning-AU)
 > *uses prediction uncertainty information and attention to improve continual learning*
 
 
